@@ -1,3 +1,1 @@
-"C:\Program Files\CMake\bin\cmake.exe" -E rm -f CMakeFiles\prime.dir/objects.a
-C:\msys64\mingw64\bin\ar.exe qc CMakeFiles\prime.dir/objects.a @CMakeFiles\prime.dir\objects1.rsp
-C:\msys64\mingw64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\prime.dir/objects.a -Wl,--no-whole-archive -o prime.exe -Wl,--out-implib,libprime.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\prime.dir\linkLibs.rsp
+/usr/bin/c++ CMakeFiles/prime.dir/src/main.cpp.o CMakeFiles/prime.dir/src/prime.cpp.o -o prime 

@@ -1,0 +1,5 @@
+if(EXISTS "/mnt/c/Users/cKing/DSA/prime/build/my_test-b12d07c_tests.cmake")
+  include("/mnt/c/Users/cKing/DSA/prime/build/my_test-b12d07c_tests.cmake")
+else()
+  add_test(my_test_NOT_BUILT-b12d07c my_test_NOT_BUILT-b12d07c)
+endif()

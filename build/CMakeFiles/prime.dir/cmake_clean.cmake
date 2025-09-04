@@ -1,11 +1,9 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/prime.dir/src/main.cpp.obj"
-  "CMakeFiles/prime.dir/src/main.cpp.obj.d"
-  "CMakeFiles/prime.dir/src/prime.cpp.obj"
-  "CMakeFiles/prime.dir/src/prime.cpp.obj.d"
-  "libprime.dll.a"
-  "prime.exe"
-  "prime.exe.manifest"
+  "CMakeFiles/prime.dir/src/main.cpp.o"
+  "CMakeFiles/prime.dir/src/main.cpp.o.d"
+  "CMakeFiles/prime.dir/src/prime.cpp.o"
+  "CMakeFiles/prime.dir/src/prime.cpp.o.d"
+  "prime"
   "prime.pdb"
 )
 

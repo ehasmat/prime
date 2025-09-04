@@ -8,8 +8,8 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "C:/Users/cKing/DSA/prime/src/main.cpp" "CMakeFiles/prime.dir/src/main.cpp.obj" "gcc" "CMakeFiles/prime.dir/src/main.cpp.obj.d"
-  "C:/Users/cKing/DSA/prime/src/prime.cpp" "CMakeFiles/prime.dir/src/prime.cpp.obj" "gcc" "CMakeFiles/prime.dir/src/prime.cpp.obj.d"
+  "/mnt/c/Users/cKing/DSA/prime/src/main.cpp" "CMakeFiles/prime.dir/src/main.cpp.o" "gcc" "CMakeFiles/prime.dir/src/main.cpp.o.d"
+  "/mnt/c/Users/cKing/DSA/prime/src/prime.cpp" "CMakeFiles/prime.dir/src/prime.cpp.o" "gcc" "CMakeFiles/prime.dir/src/prime.cpp.o.d"
   )
 
 # Targets to which this target links which contain Fortran sources.

@@ -1,11 +1,9 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/my_test.dir/src/prime.cpp.obj"
-  "CMakeFiles/my_test.dir/src/prime.cpp.obj.d"
-  "CMakeFiles/my_test.dir/tests/test.cpp.obj"
-  "CMakeFiles/my_test.dir/tests/test.cpp.obj.d"
-  "libmy_test.dll.a"
-  "my_test.exe"
-  "my_test.exe.manifest"
+  "CMakeFiles/my_test.dir/src/prime.cpp.o"
+  "CMakeFiles/my_test.dir/src/prime.cpp.o.d"
+  "CMakeFiles/my_test.dir/tests/test.cpp.o"
+  "CMakeFiles/my_test.dir/tests/test.cpp.o.d"
+  "my_test"
   "my_test.pdb"
 )
 
