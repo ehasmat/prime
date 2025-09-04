@@ -1,5 +1,5 @@
 #include "prime.hpp"  
-
+#include <iostream>
 
 int main(){
 
