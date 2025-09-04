@@ -1,0 +1,5 @@
+C:/Users/cKing/DSA/prime/build/CMakeFiles/prime.dir
+C:/Users/cKing/DSA/prime/build/CMakeFiles/my_test.dir
+C:/Users/cKing/DSA/prime/build/CMakeFiles/test.dir
+C:/Users/cKing/DSA/prime/build/CMakeFiles/edit_cache.dir
+C:/Users/cKing/DSA/prime/build/CMakeFiles/rebuild_cache.dir
